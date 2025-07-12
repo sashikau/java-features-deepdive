@@ -59,6 +59,12 @@ This project serves as:
       mvn clean install
       ```
 
+   - **Generate JavaDocs locally:**
+
+     ```bash
+     mvn javadoc:javadoc
+     ```
+
 ## 🤝 **Contributing**
 Currently focused on personal exploration and knowledge sharing. Suggestions or corrections via Issues or PRs are welcome.
 
